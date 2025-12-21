@@ -8,9 +8,14 @@
     "files": [
         "main.ts",
         "images.g.ts",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "main.py"
     ],
     "testFiles": [],
+    "targetVersions": {
+        "target": "2.0.63",
+        "targetId": "arcade"
+    },
     "supportedTargets": [
         "arcade"
     ],
