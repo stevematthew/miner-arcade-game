@@ -6,17 +6,11 @@
         "device": "*"
     },
     "files": [
-        "main.ts",
-        "images.g.ts",
-        "tilemap.g.ts"
+        "main.ts"
     ],
     "testFiles": [],
     "supportedTargets": [
         "arcade"
     ],
-    "targetVersions": {
-        "target": "1.12.30",
-        "targetId": "arcade"
-    },
     "preferredEditor": "tsprj"
 }
