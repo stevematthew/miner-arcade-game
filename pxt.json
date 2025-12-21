@@ -1,0 +1,22 @@
+{
+    "name": "Mining Game",
+    "version": "1.0.0",
+    "description": "A top-down mining game",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "images.g.ts",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "preferredEditor": "tsprj"
+}

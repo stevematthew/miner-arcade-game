@@ -1,0 +1,4 @@
+node_modules/
+built/
+.pxt/
+pxt_modules/
